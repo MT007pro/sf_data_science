@@ -10,7 +10,7 @@
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
-#ссылка на database: https://drive.google.com/file/d/1rXOjiuVYqlJpNN6NCAxpjHmxNtVUG7Lc/view
+#ссылка на database: https://drive.google.com/file/d/1rXOjiuVYqlJpNN6NCAxpjHmxNtVUG7Lc/view?usp=sharing
 
 
 :arrow_up:[к оглавлению](_)
